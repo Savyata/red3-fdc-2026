@@ -1,0 +1,6 @@
+﻿sampling_stratum,declared_status,sampling_unit,statements_annotated,statements_unclear,effective_sample_size,fully_enumerated,declared_share,declared_share_lower_95,declared_share_upper_95,eligible_records_in_stratum,estimated_declared_records,run_id
+detected | erythrosine,detected,unique text,3,0,2.45,True,1.0,1.0,1.0,9,9.0,run_20261124T044933_996155Z_db1a115f
+"detected | erythrosine,numeric_red3",detected,unique text,17,0,14.45,True,1.0,1.0,1.0,62,62.0,run_20261124T044933_996155Z_db1a115f
+detected | numeric_red3,detected,unique text,150,0,65.56,False,1.0,0.9446486214153272,0.9999999999999999,35784,35784.0,run_20261124T044933_996155Z_db1a115f
+not_detected | negative sample,not_detected,record,299,0,300.0,False,0.0,8.673617379884035e-19,0.012642971224546034,1921334,0.0,run_20261124T044933_996155Z_db1a115f
+review | all statements,review,unique text,247,1,164.54,True,0.9960861056751468,0.9922027290448343,0.9961013645224172,1026,1021.9843444227006,run_20261124T044933_996155Z_db1a115f

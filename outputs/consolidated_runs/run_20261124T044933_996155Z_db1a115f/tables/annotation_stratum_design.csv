@@ -1,0 +1,6 @@
+﻿sampling_stratum,sampling_unit,units_in_population,units_sampled,sampling_fraction_percent,distinct_statements_to_annotate,eligible_records_in_stratum,run_id
+detected | erythrosine,unique text,3,3,100.0,3,9,run_20261124T044933_996155Z_db1a115f
+"detected | erythrosine,numeric_red3",unique text,17,17,100.0,17,62,run_20261124T044933_996155Z_db1a115f
+detected | numeric_red3,unique text,8591,150,1.75,150,35784,run_20261124T044933_996155Z_db1a115f
+not_detected | negative sample,record,1921334,300,0.02,299,1921334,run_20261124T044933_996155Z_db1a115f
+review | all statements,unique text,247,247,100.0,247,1026,run_20261124T044933_996155Z_db1a115f

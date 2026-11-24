@@ -1,0 +1,37 @@
+﻿component,measure,scope,count,denominator,percent,denominator_label,ratio,run_id
+routing funnel,source records,all source records,2010212,,,,,run_20261124T044933_996155Z_db1a115f
+routing funnel,exit: placeholder or missing statement -> unknown,all source records,5374,2010212.0,0.2673,source records,,run_20261124T044933_996155Z_db1a115f
+routing funnel,exit: no candidate substring (fast path) -> not_detected,all source records,1165852,2010212.0,57.9965,source records,,run_20261124T044933_996155Z_db1a115f
+routing funnel,evaluated by the patterns,all source records,838986,2010212.0,41.7362,source records,,run_20261124T044933_996155Z_db1a115f
+routing funnel,evaluated -> detected,all source records,36047,838986.0,4.2965,records evaluated by the patterns,,run_20261124T044933_996155Z_db1a115f
+routing funnel,evaluated -> review,all source records,1035,838986.0,0.1234,records evaluated by the patterns,,run_20261124T044933_996155Z_db1a115f
+routing funnel,evaluated -> not_detected,all source records,801904,838986.0,95.5801,records evaluated by the patterns,,run_20261124T044933_996155Z_db1a115f
+normalization,records with at least one pattern match,all source records,37082,,,,,run_20261124T044933_996155Z_db1a115f
+normalization,match exists only after normalization,all source records,0,37082.0,0.0,records with a match,,run_20261124T044933_996155Z_db1a115f
+normalization,rescued by: HTML unescaping,all source records,0,37082.0,0.0,records with a match,,run_20261124T044933_996155Z_db1a115f
+normalization,"rescued by: compatibility folding (fullwidth, ligature)",all source records,0,37082.0,0.0,records with a match,,run_20261124T044933_996155Z_db1a115f
+normalization,rescued by: diacritic removal,all source records,0,37082.0,0.0,records with a match,,run_20261124T044933_996155Z_db1a115f
+normalization,rescued by: other normalization,all source records,0,37082.0,0.0,records with a match,,run_20261124T044933_996155Z_db1a115f
+review routing,records routed to review,all source records,1035,37082.0,2.7911,detected or review records,,run_20261124T044933_996155Z_db1a115f
+review routing,reason present: possible_conditional_declaration,all source records,927,1035.0,89.5652,review records (reasons can co-occur),,run_20261124T044933_996155Z_db1a115f
+review routing,reason present: alias_or_unfamiliar_spelling,all source records,118,1035.0,11.401,review records (reasons can co-occur),,run_20261124T044933_996155Z_db1a115f
+review routing,exact combination: possible_conditional_declaration,all source records,917,1035.0,88.599,review records (combinations are exclusive),,run_20261124T044933_996155Z_db1a115f
+review routing,exact combination: alias_or_unfamiliar_spelling,all source records,108,1035.0,10.4348,review records (combinations are exclusive),,run_20261124T044933_996155Z_db1a115f
+review routing,exact combination: alias_or_unfamiliar_spelling + possible_conditional_declaration,all source records,10,1035.0,0.9662,review records (combinations are exclusive),,run_20261124T044933_996155Z_db1a115f
+review routing,latest barcode held for review: conflicting_latest_records,eligible latest barcodes,27,455546.0,0.0059,eligible latest barcodes,,run_20261124T044933_996155Z_db1a115f
+deduplication,records,all source records,2010212,,,,,run_20261124T044933_996155Z_db1a115f
+deduplication,records where a package-size span was removed,all source records,69799,2010212.0,3.4722,records in scope,,run_20261124T044933_996155Z_db1a115f
+deduplication,"product identities, sizes NOT stripped",all source records,908327,2010212.0,45.1856,records in scope,2.2131,run_20261124T044933_996155Z_db1a115f
+deduplication,"product identities, sizes stripped (identity_id)",all source records,903146,2010212.0,44.9279,records in scope,2.2258,run_20261124T044933_996155Z_db1a115f
+deduplication,"exact variants, sizes NOT stripped",all source records,1026656,2010212.0,51.072,records in scope,1.958,run_20261124T044933_996155Z_db1a115f
+deduplication,"exact variants, sizes stripped (exact_variant_id)",all source records,1022374,2010212.0,50.859,records in scope,1.9662,run_20261124T044933_996155Z_db1a115f
+deduplication,identities merged by size stripping alone,all source records,5181,908327.0,0.5704,identities before stripping,,run_20261124T044933_996155Z_db1a115f
+deduplication,exact variants merged by size stripping alone,all source records,4282,1026656.0,0.4171,variants before stripping,,run_20261124T044933_996155Z_db1a115f
+deduplication,records,detected or review records,37082,,,,,run_20261124T044933_996155Z_db1a115f
+deduplication,records where a package-size span was removed,detected or review records,327,37082.0,0.8818,records in scope,,run_20261124T044933_996155Z_db1a115f
+deduplication,"product identities, sizes NOT stripped",detected or review records,17424,37082.0,46.9878,records in scope,2.1282,run_20261124T044933_996155Z_db1a115f
+deduplication,"product identities, sizes stripped (identity_id)",detected or review records,17415,37082.0,46.9635,records in scope,2.1293,run_20261124T044933_996155Z_db1a115f
+deduplication,"exact variants, sizes NOT stripped",detected or review records,19947,37082.0,53.7916,records in scope,1.859,run_20261124T044933_996155Z_db1a115f
+deduplication,"exact variants, sizes stripped (exact_variant_id)",detected or review records,19938,37082.0,53.7673,records in scope,1.8599,run_20261124T044933_996155Z_db1a115f
+deduplication,identities merged by size stripping alone,detected or review records,9,17424.0,0.0517,identities before stripping,,run_20261124T044933_996155Z_db1a115f
+deduplication,exact variants merged by size stripping alone,detected or review records,9,19947.0,0.0451,variants before stripping,,run_20261124T044933_996155Z_db1a115f

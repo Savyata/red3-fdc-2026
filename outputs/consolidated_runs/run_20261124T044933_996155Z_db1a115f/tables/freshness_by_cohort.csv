@@ -1,0 +1,26 @@
+﻿cohort,window,units,percent,run_id
+all source records,within 12 months,18426,0.92,run_20261124T044933_996155Z_db1a115f
+all source records,within 24 months,42378,2.11,run_20261124T044933_996155Z_db1a115f
+all source records,within 48 months,370443,18.43,run_20261124T044933_996155Z_db1a115f
+all source records,older than 48 months,1639769,81.57,run_20261124T044933_996155Z_db1a115f
+all source records,no publication date,0,0.0,run_20261124T044933_996155Z_db1a115f
+eligible latest barcodes,within 12 months,12039,2.64,run_20261124T044933_996155Z_db1a115f
+eligible latest barcodes,within 24 months,16374,3.59,run_20261124T044933_996155Z_db1a115f
+eligible latest barcodes,within 48 months,205305,45.07,run_20261124T044933_996155Z_db1a115f
+eligible latest barcodes,older than 48 months,250241,54.93,run_20261124T044933_996155Z_db1a115f
+eligible latest barcodes,no publication date,0,0.0,run_20261124T044933_996155Z_db1a115f
+detected latest barcodes,within 12 months,38,0.42,run_20261124T044933_996155Z_db1a115f
+detected latest barcodes,within 24 months,47,0.51,run_20261124T044933_996155Z_db1a115f
+detected latest barcodes,within 48 months,3512,38.48,run_20261124T044933_996155Z_db1a115f
+detected latest barcodes,older than 48 months,5615,61.52,run_20261124T044933_996155Z_db1a115f
+detected latest barcodes,no publication date,0,0.0,run_20261124T044933_996155Z_db1a115f
+product identities,within 12 months,12228,1.38,run_20261124T044933_996155Z_db1a115f
+product identities,within 24 months,17894,2.02,run_20261124T044933_996155Z_db1a115f
+product identities,within 48 months,209966,23.75,run_20261124T044933_996155Z_db1a115f
+product identities,older than 48 months,674100,76.25,run_20261124T044933_996155Z_db1a115f
+product identities,no publication date,0,0.0,run_20261124T044933_996155Z_db1a115f
+product identities with a detection,within 12 months,61,0.36,run_20261124T044933_996155Z_db1a115f
+product identities with a detection,within 24 months,71,0.42,run_20261124T044933_996155Z_db1a115f
+product identities with a detection,within 48 months,3375,19.99,run_20261124T044933_996155Z_db1a115f
+product identities with a detection,older than 48 months,13506,80.01,run_20261124T044933_996155Z_db1a115f
+product identities with a detection,no publication date,0,0.0,run_20261124T044933_996155Z_db1a115f

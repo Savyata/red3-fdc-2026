@@ -1,0 +1,89 @@
+{
+  "run_id": "run_20261124T044933_996155Z_db1a115f",
+  "generated_utc": "2026-11-24T05:37:42Z",
+  "release_analysed": "2026-10-29",
+  "analysis_date": "2026-11-21",
+  "source_archive": {
+    "url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_branded_food_csv_2026-10-29.zip",
+    "bytes": 451954262,
+    "sha256": "17f1e52ea91854d8c6c266487597bf1dd6ce63441bfe27c9e61f64e2768440c7",
+    "download_completed_utc": "2026-11-23T00:27:12Z"
+  },
+  "source_archive_is_known_packaging": true,
+  "source_tables": {
+    "food.csv": {
+      "bytes": 377990607,
+      "sha256": "505288ee4ae062805181bd8b5c034efa9c682ceb58a590ef2476fa46cc9622d3",
+      "matches_pinned": true
+    },
+    "branded_food.csv": {
+      "bytes": 960715079,
+      "sha256": "a68b6ed1ce76182fa4eb7d1730a4fb2b49d2c683ca9d1dfcfc51c1a03c3b7013",
+      "matches_pinned": true
+    }
+  },
+  "detector_fingerprint_sha256": "267c2b303d19b3aa348bb4323978fda3895d6dea79de71f43601a972dddc7122",
+  "package_versions": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.2",
+    "pyarrow": "25.0.1",
+    "matplotlib": "3.11.2"
+  },
+  "optional_sections": {
+    "canonical_grouping": false,
+    "llm": false,
+    "alias_table": false
+  },
+  "cohort": {
+    "source_records": 2010212,
+    "us_market_records": 2009095,
+    "eligible_records": 1963525,
+    "eligible_gtins": 455546,
+    "formulation_variants": 1022374,
+    "product_identities": 903146
+  },
+  "status_counts_records": {
+    "not_detected": 1967756,
+    "detected": 36047,
+    "unknown": 5374,
+    "review": 1035
+  },
+  "status_counts_latest_gtins": {
+    "not_detected": 443788,
+    "detected": 9127,
+    "unknown": 2356,
+    "review": 275
+  },
+  "reconciliation": {
+    "all_rows_scanned": true,
+    "fdc_ids_unique": true,
+    "every_record_grouped": true,
+    "eligible_decomposes": true,
+    "status_values_known": true,
+    "latest_covers_all_gtins": true,
+    "no_discontinued_filter_applied": true
+  },
+  "analysis_complete": true,
+  "human_validation_complete": true,
+  "human_validation": {
+    "state": "complete",
+    "annotation_files": [
+      "annotation_sheet_blind.csv"
+    ],
+    "sample_statements": 716,
+    "statements_with_gold_label": 716,
+    "coverage_percent": 100.0,
+    "double_annotated_statements": 716,
+    "benchmark": "processed\\gold_standard_benchmark.parquet",
+    "annotator_disagreements": 3,
+    "benchmark_records": 18932,
+    "benchmark_statements": 716,
+    "benchmark_records_by_split": {
+      "dev": 4678,
+      "test": 14254
+    }
+  },
+  "figures": [
+    "figures\\record_freshness_and_category.png"
+  ]
+}

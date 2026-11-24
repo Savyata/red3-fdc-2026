@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, its tables, or the annotated validation sample, please cite it as below."
+type: dataset
+title: "Red3-FDC-2026: An Offset-Preserving, Deduplicated Dataset of FD&C Red No. 3 Declarations in U.S. Branded Foods, with Human-Adjudicated Validation Labels"
+version: 1.0.0
+date-released: "2026-11-24"
+doi: 10.5281/zenodo.24488536
+authors:
+  - family-names: Regmi
+    given-names: Savyata
+    orcid: "https://orcid.org/0009-0006-7736-9967"
+license: MIT
+repository-code: "https://github.com/Savyata/red3-fdc-2026"
+keywords:
+  - FD&C Red No. 3
+  - erythrosine
+  - E127
+  - USDA FoodData Central
+  - branded foods
+  - ingredient declarations
+  - food additives
+  - rule-based text classification

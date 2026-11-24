@@ -1,0 +1,45 @@
+﻿grouping,group,placement,mentions,statements,share_of_group_percent,mean_relative_position,median_relative_position,after_minor_clause_percent,run_id
+overall,all distinct statements,all placements,9038,8299,100.0,0.781,0.846,25.99,run_20261124T044933_996155Z_db1a115f
+overall,all distinct statements,top level,4795,4446,53.05,0.799,0.833,27.67,run_20261124T044933_996155Z_db1a115f
+overall,all distinct statements,colour group,2301,2218,25.46,0.859,0.952,27.68,run_20261124T044933_996155Z_db1a115f
+overall,all distinct statements,sub-component,1942,1774,21.49,0.643,0.667,19.82,run_20261124T044933_996155Z_db1a115f
+dye form,base,all placements,8082,7430,100.0,0.788,0.857,23.58,run_20261124T044933_996155Z_db1a115f
+dye form,base,top level,4318,4004,53.43,0.805,0.846,25.27,run_20261124T044933_996155Z_db1a115f
+dye form,base,colour group,1985,1913,24.56,0.876,1.0,23.48,run_20261124T044933_996155Z_db1a115f
+dye form,base,sub-component,1779,1637,22.01,0.649,0.667,19.62,run_20261124T044933_996155Z_db1a115f
+dye form,lake,all placements,956,944,100.0,0.718,0.75,46.34,run_20261124T044933_996155Z_db1a115f
+dye form,lake,top level,477,473,49.9,0.744,0.75,49.48,run_20261124T044933_996155Z_db1a115f
+dye form,lake,colour group,316,314,33.05,0.751,0.778,54.11,run_20261124T044933_996155Z_db1a115f
+dye form,lake,sub-component,163,157,17.05,0.58,0.5,22.09,run_20261124T044933_996155Z_db1a115f
+category,Candy,all placements,2359,2276,100.0,0.86,0.917,13.82,run_20261124T044933_996155Z_db1a115f
+category,Candy,top level,1313,1279,55.66,0.817,0.846,17.36,run_20261124T044933_996155Z_db1a115f
+category,Candy,colour group,864,841,36.63,0.931,1.0,9.14,run_20261124T044933_996155Z_db1a115f
+category,Candy,sub-component,182,169,7.72,0.834,1.0,10.44,run_20261124T044933_996155Z_db1a115f
+category,Cookies & Biscuits,all placements,1714,1442,100.0,0.718,0.75,35.12,run_20261124T044933_996155Z_db1a115f
+category,Cookies & Biscuits,top level,875,693,51.05,0.774,0.818,34.06,run_20261124T044933_996155Z_db1a115f
+category,Cookies & Biscuits,colour group,448,423,26.14,0.75,0.773,54.91,run_20261124T044933_996155Z_db1a115f
+category,Cookies & Biscuits,sub-component,391,358,22.81,0.556,0.471,14.83,run_20261124T044933_996155Z_db1a115f
+category,Baking Decorations & Dessert Toppings,all placements,1087,1041,100.0,0.775,0.812,10.3,run_20261124T044933_996155Z_db1a115f
+category,Baking Decorations & Dessert Toppings,top level,935,903,86.02,0.769,0.8,10.27,run_20261124T044933_996155Z_db1a115f
+category,Baking Decorations & Dessert Toppings,colour group,127,124,11.68,0.815,0.929,11.81,run_20261124T044933_996155Z_db1a115f
+category,Baking Decorations & Dessert Toppings,sub-component,25,22,2.3,0.805,1.0,4.0,run_20261124T044933_996155Z_db1a115f
+category,"Cakes, Cupcakes, Snack Cakes",all placements,1098,962,100.0,0.778,0.857,36.43,run_20261124T044933_996155Z_db1a115f
+category,"Cakes, Cupcakes, Snack Cakes",top level,494,472,44.99,0.852,0.896,43.52,run_20261124T044933_996155Z_db1a115f
+category,"Cakes, Cupcakes, Snack Cakes",colour group,240,227,21.86,0.825,0.882,43.33,run_20261124T044933_996155Z_db1a115f
+category,"Cakes, Cupcakes, Snack Cakes",sub-component,364,317,33.15,0.646,0.667,22.25,run_20261124T044933_996155Z_db1a115f
+category,"Popcorn, Peanuts, Seeds & Related Snacks",all placements,379,344,100.0,0.76,0.818,27.7,run_20261124T044933_996155Z_db1a115f
+category,"Popcorn, Peanuts, Seeds & Related Snacks",top level,86,86,22.69,0.741,0.786,30.23,run_20261124T044933_996155Z_db1a115f
+category,"Popcorn, Peanuts, Seeds & Related Snacks",colour group,71,69,18.73,0.816,0.857,16.9,run_20261124T044933_996155Z_db1a115f
+category,"Popcorn, Peanuts, Seeds & Related Snacks",sub-component,222,193,58.58,0.75,0.809,30.18,run_20261124T044933_996155Z_db1a115f
+category,Ice Cream & Frozen Yogurt,all placements,341,313,100.0,0.724,0.786,33.14,run_20261124T044933_996155Z_db1a115f
+category,Ice Cream & Frozen Yogurt,top level,117,110,34.31,0.842,0.864,51.28,run_20261124T044933_996155Z_db1a115f
+category,Ice Cream & Frozen Yogurt,colour group,95,84,27.86,0.856,0.947,25.26,run_20261124T044933_996155Z_db1a115f
+category,Ice Cream & Frozen Yogurt,sub-component,129,125,37.83,0.52,0.5,22.48,run_20261124T044933_996155Z_db1a115f
+category,Chocolate,all placements,268,258,100.0,0.876,1.0,6.72,run_20261124T044933_996155Z_db1a115f
+category,Chocolate,top level,76,73,28.36,0.82,0.871,11.84,run_20261124T044933_996155Z_db1a115f
+category,Chocolate,colour group,91,91,33.96,0.94,1.0,8.79,run_20261124T044933_996155Z_db1a115f
+category,Chocolate,sub-component,101,97,37.69,0.86,1.0,0.99,run_20261124T044933_996155Z_db1a115f
+category,"Cake, Cookie & Cupcake Mixes",all placements,286,203,100.0,0.725,0.785,28.32,run_20261124T044933_996155Z_db1a115f
+category,"Cake, Cookie & Cupcake Mixes",top level,188,123,65.73,0.751,0.785,27.66,run_20261124T044933_996155Z_db1a115f
+category,"Cake, Cookie & Cupcake Mixes",colour group,23,23,8.04,0.857,1.0,30.43,run_20261124T044933_996155Z_db1a115f
+category,"Cake, Cookie & Cupcake Mixes",sub-component,75,62,26.22,0.622,0.667,29.33,run_20261124T044933_996155Z_db1a115f

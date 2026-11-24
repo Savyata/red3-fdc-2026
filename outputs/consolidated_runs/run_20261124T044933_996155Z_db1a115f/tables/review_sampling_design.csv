@@ -1,0 +1,5 @@
+﻿queue,population,exported,selection,run_id
+candidate records,36881,36881,all detected or review,run_20261124T044933_996155Z_db1a115f
+negative sample,1921334,300,"deterministic random, seed=42",run_20261124T044933_996155Z_db1a115f
+chronology unresolved,455546,27,all unresolved,run_20261124T044933_996155Z_db1a115f
+formulation groups,541,500,"mixed status, multiple owners or combined barcodes; largest 500 exported",run_20261124T044933_996155Z_db1a115f

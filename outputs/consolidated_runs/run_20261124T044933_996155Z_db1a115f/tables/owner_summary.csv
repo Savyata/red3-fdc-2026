@@ -1,0 +1,1438 @@
+﻿brand_owner_normalized,source_records,formulation_variants,distinct_gtins,product_identities,records_per_variant,run_id
+target stores,2847,1457,777,1128,1.95,run_20261124T044933_996155Z_db1a115f
+"wal-mart stores, inc.",2266,1154,480,831,1.96,run_20261124T044933_996155Z_db1a115f
+ferrara candy company,2222,1052,419,837,2.11,run_20261124T044933_996155Z_db1a115f
+ross acquisition inc.,1291,678,382,588,1.9,run_20261124T044933_996155Z_db1a115f
+wilton enterprises inc,737,486,256,293,1.52,run_20261124T044933_996155Z_db1a115f
+wilton industries inc.,937,434,372,283,2.16,run_20261124T044933_996155Z_db1a115f
+"meijer, inc.",537,306,108,282,1.75,run_20261124T044933_996155Z_db1a115f
+(owner not stated),282,264,262,245,1.07,run_20261124T044933_996155Z_db1a115f
+"pez candy, inc.",531,225,154,175,2.36,run_20261124T044933_996155Z_db1a115f
+signature brands llc,423,221,121,191,1.91,run_20261124T044933_996155Z_db1a115f
+kingston marketing co,453,205,123,186,2.21,run_20261124T044933_996155Z_db1a115f
+the kroger co.,325,175,94,171,1.86,run_20261124T044933_996155Z_db1a115f
+"topco associates, inc.",287,173,83,165,1.66,run_20261124T044933_996155Z_db1a115f
+"just born, inc.",309,170,80,134,1.82,run_20261124T044933_996155Z_db1a115f
+lofthouse foods,354,168,81,115,2.11,run_20261124T044933_996155Z_db1a115f
+family dollar stores inc.,339,164,75,148,2.07,run_20261124T044933_996155Z_db1a115f
+"safeway, inc.",271,164,61,150,1.65,run_20261124T044933_996155Z_db1a115f
+"cookies united, llc",297,160,94,157,1.86,run_20261124T044933_996155Z_db1a115f
+not a branded item,180,153,144,138,1.18,run_20261124T044933_996155Z_db1a115f
+"cvs pharmacy, inc.",284,152,68,143,1.87,run_20261124T044933_996155Z_db1a115f
+"hammond's candies since 1920, llc",325,148,74,142,2.2,run_20261124T044933_996155Z_db1a115f
+rich products corporation,258,137,53,122,1.88,run_20261124T044933_996155Z_db1a115f
+r.m. palmer co.,232,134,68,130,1.73,run_20261124T044933_996155Z_db1a115f
+"bimbo bakeries usa, inc.",234,131,45,107,1.79,run_20261124T044933_996155Z_db1a115f
+melville candy corporation,220,126,78,125,1.75,run_20261124T044933_996155Z_db1a115f
+"schnuck markets, inc.",225,126,59,122,1.79,run_20261124T044933_996155Z_db1a115f
+walgreens co.,249,123,61,121,2.02,run_20261124T044933_996155Z_db1a115f
+"sweetworks confections, llc",210,119,56,95,1.76,run_20261124T044933_996155Z_db1a115f
+"weis markets, inc.",225,114,63,114,1.97,run_20261124T044933_996155Z_db1a115f
+"7-eleven, inc.",239,114,51,103,2.1,run_20261124T044933_996155Z_db1a115f
+"frankford candy, llc",214,113,63,103,1.89,run_20261124T044933_996155Z_db1a115f
+adams & brooks inc,199,112,53,107,1.78,run_20261124T044933_996155Z_db1a115f
+abbott laboratories inc,244,112,46,79,2.18,run_20261124T044933_996155Z_db1a115f
+"supervalu, inc.",189,108,39,97,1.75,run_20261124T044933_996155Z_db1a115f
+"ahold usa, inc.",220,101,52,92,2.18,run_20261124T044933_996155Z_db1a115f
+imaginings 3,185,100,47,95,1.85,run_20261124T044933_996155Z_db1a115f
+"tops markets, llc",206,93,51,89,2.22,run_20261124T044933_996155Z_db1a115f
+"hy-vee, inc.",206,92,51,86,2.24,run_20261124T044933_996155Z_db1a115f
+"brand castle, llc",172,92,59,92,1.87,run_20261124T044933_996155Z_db1a115f
+"my favorite company, inc.",156,85,42,76,1.84,run_20261124T044933_996155Z_db1a115f
+"the topps company, inc.",151,85,46,83,1.78,run_20261124T044933_996155Z_db1a115f
+"maud borup, inc.",171,84,45,81,2.04,run_20261124T044933_996155Z_db1a115f
+wondershop,94,81,81,73,1.16,run_20261124T044933_996155Z_db1a115f
+smart & final iris corporation,123,76,37,68,1.62,run_20261124T044933_996155Z_db1a115f
+gs1 mexico,146,76,71,62,1.92,run_20261124T044933_996155Z_db1a115f
+new england confectionery company inc.,151,73,36,57,2.07,run_20261124T044933_996155Z_db1a115f
+"general mills, inc.",109,70,40,66,1.56,run_20261124T044933_996155Z_db1a115f
+"wegmans food markets, inc.",167,70,33,66,2.39,run_20261124T044933_996155Z_db1a115f
+"wells enterprises, inc.",121,69,24,62,1.75,run_20261124T044933_996155Z_db1a115f
+general mills sales inc.,200,68,45,50,2.94,run_20261124T044933_996155Z_db1a115f
+the kellogg company,131,67,27,61,1.96,run_20261124T044933_996155Z_db1a115f
+over the top,67,67,57,60,1.0,run_20261124T044933_996155Z_db1a115f
+fourstar group usa inc.,164,67,32,60,2.45,run_20261124T044933_996155Z_db1a115f
+rite aid corporation,115,66,29,65,1.74,run_20261124T044933_996155Z_db1a115f
+"bee international, inc.",128,64,39,64,2.0,run_20261124T044933_996155Z_db1a115f
+"holiday candy corp, inc.",140,63,29,60,2.22,run_20261124T044933_996155Z_db1a115f
+mother's cake & cookie company,108,63,44,50,1.71,run_20261124T044933_996155Z_db1a115f
+"link snacks, inc.",96,63,28,57,1.52,run_20261124T044933_996155Z_db1a115f
+"hostess brands, llc",126,62,31,54,2.03,run_20261124T044933_996155Z_db1a115f
+two-bite,78,62,53,41,1.26,run_20261124T044933_996155Z_db1a115f
+mckee foods corporation,119,62,25,54,1.92,run_20261124T044933_996155Z_db1a115f
+xcell international corp,141,61,34,59,2.31,run_20261124T044933_996155Z_db1a115f
+primary colors design corp,120,60,36,58,2.0,run_20261124T044933_996155Z_db1a115f
+"big y foods, inc.",118,58,28,56,2.03,run_20261124T044933_996155Z_db1a115f
+"giant eagle, inc.",104,57,27,48,1.82,run_20261124T044933_996155Z_db1a115f
+"dillon companies, inc.",111,57,23,54,1.95,run_20261124T044933_996155Z_db1a115f
+nash finch company,131,57,27,53,2.3,run_20261124T044933_996155Z_db1a115f
+"the decorated cookie company, llc",138,56,37,44,2.46,run_20261124T044933_996155Z_db1a115f
+eillien's candies inc.,103,53,33,53,1.94,run_20261124T044933_996155Z_db1a115f
+sweet p's bake shop,53,53,41,45,1.0,run_20261124T044933_996155Z_db1a115f
+"publix super markets, inc.",78,51,25,49,1.53,run_20261124T044933_996155Z_db1a115f
+"kencraft, inc.",87,51,21,49,1.71,run_20261124T044933_996155Z_db1a115f
+tylina food products corporation,94,49,36,49,1.92,run_20261124T044933_996155Z_db1a115f
+mount franklin foods llc,82,48,26,39,1.71,run_20261124T044933_996155Z_db1a115f
+"dawn food products, inc.",97,48,18,45,2.02,run_20261124T044933_996155Z_db1a115f
+sweet candy company,82,48,24,48,1.71,run_20261124T044933_996155Z_db1a115f
+palmer candy company,81,47,27,44,1.72,run_20261124T044933_996155Z_db1a115f
+"idahoan foods, llc",75,47,15,39,1.6,run_20261124T044933_996155Z_db1a115f
+leonard novelty bakery,82,46,22,44,1.78,run_20261124T044933_996155Z_db1a115f
+"maplehurst bakeries, llc",89,45,20,44,1.98,run_20261124T044933_996155Z_db1a115f
+ibakefoods,78,45,18,39,1.73,run_20261124T044933_996155Z_db1a115f
+labree's bakery inc,93,45,26,39,2.07,run_20261124T044933_996155Z_db1a115f
+ck products llc,97,45,30,43,2.16,run_20261124T044933_996155Z_db1a115f
+jelly belly candy company,85,44,21,44,1.93,run_20261124T044933_996155Z_db1a115f
+wakefern food corporation,67,44,14,41,1.52,run_20261124T044933_996155Z_db1a115f
+betty crocker,45,43,37,39,1.05,run_20261124T044933_996155Z_db1a115f
+"snyder's-lance, inc.",77,42,17,38,1.83,run_20261124T044933_996155Z_db1a115f
+"george delallo co., inc.",80,41,25,39,1.95,run_20261124T044933_996155Z_db1a115f
+chocomaker inc.,97,41,20,37,2.37,run_20261124T044933_996155Z_db1a115f
+food town stores inc.,74,40,18,40,1.85,run_20261124T044933_996155Z_db1a115f
+price chopper supermarkets,71,40,18,40,1.78,run_20261124T044933_996155Z_db1a115f
+"brand's country kitchen supplies, inc.",59,40,21,39,1.48,run_20261124T044933_996155Z_db1a115f
+"mccormick & company, inc.",66,37,16,33,1.78,run_20261124T044933_996155Z_db1a115f
+"goya foods, inc.",85,37,17,27,2.3,run_20261124T044933_996155Z_db1a115f
+"stone ridge meat & country market, inc",73,37,24,34,1.97,run_20261124T044933_996155Z_db1a115f
+"jo-lee food products, inc.",77,37,28,37,2.08,run_20261124T044933_996155Z_db1a115f
+hometown food company,62,36,22,32,1.72,run_20261124T044933_996155Z_db1a115f
+"dierberg's markets, inc.",62,36,22,36,1.72,run_20261124T044933_996155Z_db1a115f
+pinnacle foods group llc,61,36,19,33,1.69,run_20261124T044933_996155Z_db1a115f
+the j.m. smucker company,43,35,15,35,1.23,run_20261124T044933_996155Z_db1a115f
+"associated wholesale grocers, inc.",72,35,21,34,2.06,run_20261124T044933_996155Z_db1a115f
+hilco llc,71,34,18,34,2.09,run_20261124T044933_996155Z_db1a115f
+create a treat,35,33,31,32,1.06,run_20261124T044933_996155Z_db1a115f
+"dollar tree stores, inc.",63,33,18,32,1.91,run_20261124T044933_996155Z_db1a115f
+a couple of squares inc.,47,32,17,21,1.47,run_20261124T044933_996155Z_db1a115f
+selma's cookies,73,32,18,14,2.28,run_20261124T044933_996155Z_db1a115f
+"rb. confections, lc.",54,29,15,29,1.86,run_20261124T044933_996155Z_db1a115f
+nabisco biscuit company,44,29,12,23,1.52,run_20261124T044933_996155Z_db1a115f
+dubble bubble,43,29,33,22,1.48,run_20261124T044933_996155Z_db1a115f
+coborn's incorporated,45,29,18,28,1.55,run_20261124T044933_996155Z_db1a115f
+kimberley's bakeshoppe,35,28,24,18,1.25,run_20261124T044933_996155Z_db1a115f
+american crafts lc,47,28,23,27,1.68,run_20261124T044933_996155Z_db1a115f
+"sweet shop candies, inc.",68,28,15,21,2.43,run_20261124T044933_996155Z_db1a115f
+hp hood llc,48,28,11,24,1.71,run_20261124T044933_996155Z_db1a115f
+"waymouth farms, inc.",54,28,14,28,1.93,run_20261124T044933_996155Z_db1a115f
+the moran group incorporated,52,28,12,28,1.86,run_20261124T044933_996155Z_db1a115f
+vigo importing company,55,28,14,24,1.96,run_20261124T044933_996155Z_db1a115f
+tasty baking company,43,28,11,24,1.54,run_20261124T044933_996155Z_db1a115f
+nestle usa inc.,44,27,9,19,1.63,run_20261124T044933_996155Z_db1a115f
+scm,69,27,12,27,2.56,run_20261124T044933_996155Z_db1a115f
+kraft heinz foods company,40,27,16,27,1.48,run_20261124T044933_996155Z_db1a115f
+bay valley foods,26,26,24,23,1.0,run_20261124T044933_996155Z_db1a115f
+dutch maid bakery inc,41,25,17,25,1.64,run_20261124T044933_996155Z_db1a115f
+"wise foods, inc.",46,25,12,18,1.84,run_20261124T044933_996155Z_db1a115f
+atlantic natural foods llc,45,25,14,25,1.8,run_20261124T044933_996155Z_db1a115f
+friendly ice cream corp.,37,25,16,23,1.48,run_20261124T044933_996155Z_db1a115f
+kemps llc,49,25,8,25,1.96,run_20261124T044933_996155Z_db1a115f
+hannaford bros. co.,42,24,10,22,1.75,run_20261124T044933_996155Z_db1a115f
+first street,24,24,21,24,1.0,run_20261124T044933_996155Z_db1a115f
+lunds inc,45,24,12,24,1.88,run_20261124T044933_996155Z_db1a115f
+kenny's candy company inc.,42,24,15,23,1.75,run_20261124T044933_996155Z_db1a115f
+"jack guttman, inc.",48,24,12,22,2.0,run_20261124T044933_996155Z_db1a115f
+the yofarm company,34,24,5,22,1.42,run_20261124T044933_996155Z_db1a115f
+granny b's cookies llc,44,24,15,22,1.83,run_20261124T044933_996155Z_db1a115f
+paskesz candy company,42,23,19,18,1.83,run_20261124T044933_996155Z_db1a115f
+stater bros. markets inc.,52,23,13,19,2.26,run_20261124T044933_996155Z_db1a115f
+oberto sausage company,42,23,11,20,1.83,run_20261124T044933_996155Z_db1a115f
+koppers chocolate specialty co,42,23,13,23,1.83,run_20261124T044933_996155Z_db1a115f
+the nutmeg spice co. ltd.,41,23,18,23,1.78,run_20261124T044933_996155Z_db1a115f
+original gourmet food company inc.,40,23,12,23,1.74,run_20261124T044933_996155Z_db1a115f
+"gartner studios, inc.",35,23,10,23,1.52,run_20261124T044933_996155Z_db1a115f
+peeps & company,46,23,11,23,2.0,run_20261124T044933_996155Z_db1a115f
+"everson distributing co., inc.",44,22,11,20,2.0,run_20261124T044933_996155Z_db1a115f
+ksf acquisition corporation,67,22,8,17,3.05,run_20261124T044933_996155Z_db1a115f
+fieldbrook foods,39,22,8,21,1.77,run_20261124T044933_996155Z_db1a115f
+wythe will distributing company,50,22,11,22,2.27,run_20261124T044933_996155Z_db1a115f
+"g. debbas chocolatier, inc.",43,22,11,22,1.95,run_20261124T044933_996155Z_db1a115f
+tylina foods,21,21,21,20,1.0,run_20261124T044933_996155Z_db1a115f
+kellogg company us,75,21,23,21,3.57,run_20261124T044933_996155Z_db1a115f
+"fenton enterprises, inc.",43,21,11,21,2.05,run_20261124T044933_996155Z_db1a115f
+"iq accessories, inc.",42,21,17,13,2.0,run_20261124T044933_996155Z_db1a115f
+harmons inc,43,21,11,21,2.05,run_20261124T044933_996155Z_db1a115f
+perrigo company,47,21,7,16,2.24,run_20261124T044933_996155Z_db1a115f
+"taffy town, inc.",53,20,11,20,2.65,run_20261124T044933_996155Z_db1a115f
+"preferred wholesale, inc.",37,20,14,20,1.85,run_20261124T044933_996155Z_db1a115f
+healthy food brands llc,34,19,12,19,1.79,run_20261124T044933_996155Z_db1a115f
+"lehi valley trading company, inc.",44,19,15,19,2.32,run_20261124T044933_996155Z_db1a115f
+lieber chocolate & food products co.,30,19,12,18,1.58,run_20261124T044933_996155Z_db1a115f
+harvard pastry & baking corporation,32,19,7,19,1.68,run_20261124T044933_996155Z_db1a115f
+the quaker oats company,47,19,8,14,2.47,run_20261124T044933_996155Z_db1a115f
+"rexall sundown, inc.",37,19,9,16,1.95,run_20261124T044933_996155Z_db1a115f
+"dole packaged foods, llc",45,19,8,14,2.37,run_20261124T044933_996155Z_db1a115f
+bc hats,38,18,17,13,2.11,run_20261124T044933_996155Z_db1a115f
+george j. howe company,31,18,13,18,1.72,run_20261124T044933_996155Z_db1a115f
+russell stover candies inc.,39,18,12,18,2.17,run_20261124T044933_996155Z_db1a115f
+"delhaize america, inc.",31,18,8,16,1.72,run_20261124T044933_996155Z_db1a115f
+"rigid concepts, llc.",30,18,6,18,1.67,run_20261124T044933_996155Z_db1a115f
+"bay valley foods, llc",33,18,13,17,1.83,run_20261124T044933_996155Z_db1a115f
+atkinson candy company,26,17,6,16,1.53,run_20261124T044933_996155Z_db1a115f
+sconza candy co.,28,17,7,14,1.65,run_20261124T044933_996155Z_db1a115f
+"lowe's food stores, inc.",35,17,11,17,2.06,run_20261124T044933_996155Z_db1a115f
+"flowers foods, inc.",27,17,5,16,1.59,run_20261124T044933_996155Z_db1a115f
+little waisted llc,32,17,16,13,1.88,run_20261124T044933_996155Z_db1a115f
+"rouse's enterprises, inc.",32,17,8,17,1.88,run_20261124T044933_996155Z_db1a115f
+"atkins nutritionals, inc.",45,17,6,15,2.65,run_20261124T044933_996155Z_db1a115f
+ross products division,48,17,6,17,2.82,run_20261124T044933_996155Z_db1a115f
+affy tapple inc.,24,17,8,13,1.41,run_20261124T044933_996155Z_db1a115f
+torn & glasser inc,31,17,9,17,1.82,run_20261124T044933_996155Z_db1a115f
+"warner candy co., inc.",28,16,8,16,1.75,run_20261124T044933_996155Z_db1a115f
+dryden & palmer inc,26,16,7,16,1.62,run_20261124T044933_996155Z_db1a115f
+"post consumer brands, llc",39,16,15,14,2.44,run_20261124T044933_996155Z_db1a115f
+wm. wrigley jr. company,31,16,6,14,1.94,run_20261124T044933_996155Z_db1a115f
+"ktm services, inc.",32,16,12,16,2.0,run_20261124T044933_996155Z_db1a115f
+bon appetit danish co.,34,16,9,16,2.12,run_20261124T044933_996155Z_db1a115f
+"impact confections, inc.",26,15,6,13,1.73,run_20261124T044933_996155Z_db1a115f
+bj's wholesale club / corporate brands,26,15,7,13,1.73,run_20261124T044933_996155Z_db1a115f
+mjay's specialty baked foods inc.,34,15,9,15,2.27,run_20261124T044933_996155Z_db1a115f
+kimmie candy company,28,15,9,11,1.87,run_20261124T044933_996155Z_db1a115f
+"lone star consolidated foods, inc.",27,15,9,15,1.8,run_20261124T044933_996155Z_db1a115f
+steven-robert desserts,24,15,6,13,1.6,run_20261124T044933_996155Z_db1a115f
+frito-lay company,21,15,9,13,1.4,run_20261124T044933_996155Z_db1a115f
+schwartz brothers bakery,29,14,7,14,2.07,run_20261124T044933_996155Z_db1a115f
+spartan,14,14,14,14,1.0,run_20261124T044933_996155Z_db1a115f
+brookshire grocery company,24,14,8,12,1.71,run_20261124T044933_996155Z_db1a115f
+lipton,29,14,8,14,2.07,run_20261124T044933_996155Z_db1a115f
+dom's bakery,28,14,7,14,2.0,run_20261124T044933_996155Z_db1a115f
+"too good gourmet, inc.",28,14,11,14,2.0,run_20261124T044933_996155Z_db1a115f
+monogram food solutions llc,24,14,8,14,1.71,run_20261124T044933_996155Z_db1a115f
+quality candy comapny llc,21,14,10,14,1.5,run_20261124T044933_996155Z_db1a115f
+mcilhenny company,29,14,14,14,2.07,run_20261124T044933_996155Z_db1a115f
+reynaldo's mexican food manufacturer inc.,34,14,9,11,2.43,run_20261124T044933_996155Z_db1a115f
+"b&g foods north america, inc.",29,14,7,14,2.07,run_20261124T044933_996155Z_db1a115f
+target corporation,14,14,14,14,1.0,run_20261124T044933_996155Z_db1a115f
+united states bakery,28,14,6,14,2.0,run_20261124T044933_996155Z_db1a115f
+"western family foods, inc.",18,13,7,13,1.38,run_20261124T044933_996155Z_db1a115f
+"vista bakery, inc.",22,13,7,13,1.69,run_20261124T044933_996155Z_db1a115f
+"ford gum & machine company, inc.",34,13,9,13,2.62,run_20261124T044933_996155Z_db1a115f
+spangler candy company,25,13,10,12,1.92,run_20261124T044933_996155Z_db1a115f
+"casey's general stores, inc.",15,13,9,11,1.15,run_20261124T044933_996155Z_db1a115f
+"snack world, llc",27,13,7,11,2.08,run_20261124T044933_996155Z_db1a115f
+royal snacks,26,13,4,13,2.0,run_20261124T044933_996155Z_db1a115f
+rayge candy co. inc.,19,13,10,12,1.46,run_20261124T044933_996155Z_db1a115f
+"sotto i trulli, inc.",28,13,7,11,2.15,run_20261124T044933_996155Z_db1a115f
+sunrise,13,13,13,12,1.0,run_20261124T044933_996155Z_db1a115f
+super store industries,24,13,6,13,1.85,run_20261124T044933_996155Z_db1a115f
+good humor-breyers ice cream,24,13,7,11,1.85,run_20261124T044933_996155Z_db1a115f
+"indulgent foods, llc",22,13,5,8,1.69,run_20261124T044933_996155Z_db1a115f
+f. b. washburn candy corp.,34,13,7,10,2.62,run_20261124T044933_996155Z_db1a115f
+"dutch valley food distributors, inc.",23,13,9,13,1.77,run_20261124T044933_996155Z_db1a115f
+waggoner chocolates,24,12,6,11,2.0,run_20261124T044933_996155Z_db1a115f
+oh sugar,24,12,8,11,2.0,run_20261124T044933_996155Z_db1a115f
+premium nut & dried fruit co.,28,12,6,12,2.33,run_20261124T044933_996155Z_db1a115f
+o.m.i. sport,21,12,5,12,1.75,run_20261124T044933_996155Z_db1a115f
+r l albert & son inc,23,12,7,12,1.92,run_20261124T044933_996155Z_db1a115f
+mom brands company,20,12,6,9,1.67,run_20261124T044933_996155Z_db1a115f
+chicles canel's sa de cv,23,12,8,10,1.92,run_20261124T044933_996155Z_db1a115f
+"bergin nut company, inc.",21,12,10,12,1.75,run_20261124T044933_996155Z_db1a115f
+hyde and eek! boutique,20,12,20,12,1.67,run_20261124T044933_996155Z_db1a115f
+zachary confections inc,24,12,7,12,2.0,run_20261124T044933_996155Z_db1a115f
+scripture candy,23,12,6,12,1.92,run_20261124T044933_996155Z_db1a115f
+panos brands llc,30,12,6,10,2.5,run_20261124T044933_996155Z_db1a115f
+the father's table llc,21,12,5,12,1.75,run_20261124T044933_996155Z_db1a115f
+disney,12,12,12,12,1.0,run_20261124T044933_996155Z_db1a115f
+america's original,12,11,11,10,1.09,run_20261124T044933_996155Z_db1a115f
+"hickory farms, llc",26,11,7,10,2.36,run_20261124T044933_996155Z_db1a115f
+t&l distributing co. inc.,25,11,6,11,2.27,run_20261124T044933_996155Z_db1a115f
+india tree,18,11,10,11,1.64,run_20261124T044933_996155Z_db1a115f
+"arbor confections, inc.",18,11,5,11,1.64,run_20261124T044933_996155Z_db1a115f
+hickory harvest foods,21,11,7,11,1.91,run_20261124T044933_996155Z_db1a115f
+lofthouse,11,11,11,9,1.0,run_20261124T044933_996155Z_db1a115f
+ingles markets inc.,22,11,6,9,2.0,run_20261124T044933_996155Z_db1a115f
+iq accessories,11,11,11,3,1.0,run_20261124T044933_996155Z_db1a115f
+kings super markets inc,20,11,5,11,1.82,run_20261124T044933_996155Z_db1a115f
+"fannie may confections, inc.",21,11,5,11,1.91,run_20261124T044933_996155Z_db1a115f
+mason jar cookie company llc,20,11,5,11,1.82,run_20261124T044933_996155Z_db1a115f
+smith's food & drug centers inc.,21,11,5,11,1.91,run_20261124T044933_996155Z_db1a115f
+milky way int'l trading corp,23,11,5,10,2.09,run_20261124T044933_996155Z_db1a115f
+"debbas gourmet, llc",12,11,10,11,1.09,run_20261124T044933_996155Z_db1a115f
+dean foods company,16,11,5,11,1.45,run_20261124T044933_996155Z_db1a115f
+piedmont candy company inc.,21,11,6,11,1.91,run_20261124T044933_996155Z_db1a115f
+"godiva chocolatier, inc.",22,11,6,11,2.0,run_20261124T044933_996155Z_db1a115f
+affy tapple l.l.c.,24,11,9,10,2.18,run_20261124T044933_996155Z_db1a115f
+"stichler products, inc.",26,10,6,10,2.6,run_20261124T044933_996155Z_db1a115f
+krispy kreme doughnut corporation,16,10,8,10,1.6,run_20261124T044933_996155Z_db1a115f
+"klement sausage co., inc.",15,10,6,10,1.5,run_20261124T044933_996155Z_db1a115f
+buttercup bakeries inc,20,10,5,10,2.0,run_20261124T044933_996155Z_db1a115f
+keebler company,19,10,5,10,1.9,run_20261124T044933_996155Z_db1a115f
+black canyon gourmet popcorn,16,10,4,8,1.6,run_20261124T044933_996155Z_db1a115f
+stella d'oro biscuit co inc,15,10,3,10,1.5,run_20261124T044933_996155Z_db1a115f
+choice foods llc,23,10,5,8,2.3,run_20261124T044933_996155Z_db1a115f
+"the great atlantic & pacific tea company, inc.",16,10,4,10,1.6,run_20261124T044933_996155Z_db1a115f
+"the hampton popcorn company, inc.",19,10,6,10,1.9,run_20261124T044933_996155Z_db1a115f
+the hillshire brands company,16,10,5,10,1.6,run_20261124T044933_996155Z_db1a115f
+"transnational foods, inc.",21,10,5,10,2.1,run_20261124T044933_996155Z_db1a115f
+"designpac gifts, llc",29,10,7,10,2.9,run_20261124T044933_996155Z_db1a115f
+kathy kaye foods,25,10,5,6,2.5,run_20261124T044933_996155Z_db1a115f
+gel spice company inc,18,9,4,8,2.0,run_20261124T044933_996155Z_db1a115f
+s g f w bakers,17,9,5,9,1.89,run_20261124T044933_996155Z_db1a115f
+hospitality mints llc.,21,9,5,7,2.33,run_20261124T044933_996155Z_db1a115f
+"t.g. foods, inc.",13,9,7,8,1.44,run_20261124T044933_996155Z_db1a115f
+bi-lo inc.,18,9,9,9,2.0,run_20261124T044933_996155Z_db1a115f
+doscher's candies inc.,12,9,7,9,1.33,run_20261124T044933_996155Z_db1a115f
+michigan brand inc.,17,9,5,4,1.89,run_20261124T044933_996155Z_db1a115f
+"specialty bakers, llc",20,9,6,9,2.22,run_20261124T044933_996155Z_db1a115f
+spaans cookie company inc.,12,9,3,9,1.33,run_20261124T044933_996155Z_db1a115f
+kervan usa llc,12,9,8,8,1.33,run_20261124T044933_996155Z_db1a115f
+"basic american foods, inc.",13,9,3,9,1.44,run_20261124T044933_996155Z_db1a115f
+market pantry,10,9,8,8,1.11,run_20261124T044933_996155Z_db1a115f
+"empire bakery commissary, llc",21,9,7,8,2.33,run_20261124T044933_996155Z_db1a115f
+jerry's enterprises inc.,14,9,9,9,1.56,run_20261124T044933_996155Z_db1a115f
+"fred meyer, inc.",14,9,8,7,1.56,run_20261124T044933_996155Z_db1a115f
+"sarris candies, inc.",15,9,7,9,1.67,run_20261124T044933_996155Z_db1a115f
+"nassau candy distributors, inc.",16,9,7,9,1.78,run_20261124T044933_996155Z_db1a115f
+"dohm-icebox, llc",15,9,3,8,1.67,run_20261124T044933_996155Z_db1a115f
+"d.s.d. merchandisers, inc.",15,9,5,9,1.67,run_20261124T044933_996155Z_db1a115f
+mountain man nut & fruit co.,22,9,7,9,2.44,run_20261124T044933_996155Z_db1a115f
+pelican bay ltd.,16,9,6,9,1.78,run_20261124T044933_996155Z_db1a115f
+"lipari foods operating company, llc",19,9,6,9,2.11,run_20261124T044933_996155Z_db1a115f
+burgers' ozark country cured hams,16,9,4,9,1.78,run_20261124T044933_996155Z_db1a115f
+"chester a. asher, inc.",14,8,4,8,1.75,run_20261124T044933_996155Z_db1a115f
+"prairie farms dairy, inc.",14,8,3,8,1.75,run_20261124T044933_996155Z_db1a115f
+colombina candy company inc.,12,8,2,8,1.5,run_20261124T044933_996155Z_db1a115f
+"foodtown, inc.",12,8,3,6,1.5,run_20261124T044933_996155Z_db1a115f
+consumer value products inc.,16,8,4,8,2.0,run_20261124T044933_996155Z_db1a115f
+j&j snack foods corp,14,8,5,8,1.75,run_20261124T044933_996155Z_db1a115f
+la bree's bakery,8,8,8,5,1.0,run_20261124T044933_996155Z_db1a115f
+jnc international inc.,16,8,4,8,2.0,run_20261124T044933_996155Z_db1a115f
+"fareway stores, inc.",15,8,7,7,1.88,run_20261124T044933_996155Z_db1a115f
+stittsworth smokehouse co,15,8,3,8,1.88,run_20261124T044933_996155Z_db1a115f
+glencoe studio llc,19,8,4,4,2.38,run_20261124T044933_996155Z_db1a115f
+eatz,8,8,4,6,1.0,run_20261124T044933_996155Z_db1a115f
+wondershop at target,8,8,6,7,1.0,run_20261124T044933_996155Z_db1a115f
+"cfp chocolate holdings, llc",17,8,4,8,2.12,run_20261124T044933_996155Z_db1a115f
+mcsteven's inc.,12,8,6,8,1.5,run_20261124T044933_996155Z_db1a115f
+trade segment management,18,8,4,8,2.25,run_20261124T044933_996155Z_db1a115f
+"sears, roebuck and co.",17,8,4,8,2.12,run_20261124T044933_996155Z_db1a115f
+roundy's,8,8,8,8,1.0,run_20261124T044933_996155Z_db1a115f
+the lucks company,17,8,3,8,2.12,run_20261124T044933_996155Z_db1a115f
+sunset farm foods inc.,22,8,5,8,2.75,run_20261124T044933_996155Z_db1a115f
+randolph packing company,16,8,4,8,2.0,run_20261124T044933_996155Z_db1a115f
+pelican bay ltd. inc.,15,8,7,8,1.88,run_20261124T044933_996155Z_db1a115f
+"superior cake products, inc.",15,8,5,7,1.88,run_20261124T044933_996155Z_db1a115f
+save mart supermarkets inc.,17,8,7,8,2.12,run_20261124T044933_996155Z_db1a115f
+"winn-dixie stores, inc.",14,7,3,7,2.0,run_20261124T044933_996155Z_db1a115f
+"prasek's distributing, llc",13,7,5,7,1.86,run_20261124T044933_996155Z_db1a115f
+abbott nutrition,16,7,4,7,2.29,run_20261124T044933_996155Z_db1a115f
+target,7,7,7,7,1.0,run_20261124T044933_996155Z_db1a115f
+treehouse foods inc,7,7,7,7,1.0,run_20261124T044933_996155Z_db1a115f
+"spring creek holdings, llc",8,7,3,7,1.14,run_20261124T044933_996155Z_db1a115f
+anastasia confections inc.,12,7,4,7,1.71,run_20261124T044933_996155Z_db1a115f
+link snacks inc.,34,7,3,6,4.86,run_20261124T044933_996155Z_db1a115f
+"bako products, inc.",13,7,5,7,1.86,run_20261124T044933_996155Z_db1a115f
+sunmark,7,7,5,6,1.0,run_20261124T044933_996155Z_db1a115f
+"finlay extracts & ingredients usa, inc.",14,7,7,7,2.0,run_20261124T044933_996155Z_db1a115f
+"nestle healthcare nutrition, inc.",21,7,2,7,3.0,run_20261124T044933_996155Z_db1a115f
+sp enterprises inc,14,7,4,7,2.0,run_20261124T044933_996155Z_db1a115f
+beauty visions llc,16,7,6,7,2.29,run_20261124T044933_996155Z_db1a115f
+duff goldman,7,7,7,7,1.0,run_20261124T044933_996155Z_db1a115f
+charles river media,13,7,4,7,1.86,run_20261124T044933_996155Z_db1a115f
+dylan's candy bar,7,7,5,7,1.0,run_20261124T044933_996155Z_db1a115f
+sandridge food corporation,13,7,3,7,1.86,run_20261124T044933_996155Z_db1a115f
+archer farms,8,7,7,7,1.14,run_20261124T044933_996155Z_db1a115f
+moonstruck chocolate co.,13,7,3,7,1.86,run_20261124T044933_996155Z_db1a115f
+market basket inc.,12,7,3,7,1.71,run_20261124T044933_996155Z_db1a115f
+"p.c. woo, inc.",15,7,3,7,2.14,run_20261124T044933_996155Z_db1a115f
+"dymatize enterprises, llc",33,7,3,7,4.71,run_20261124T044933_996155Z_db1a115f
+"cherrydale farms, inc.",13,7,4,5,1.86,run_20261124T044933_996155Z_db1a115f
+mckeesport candy co.,15,7,4,7,2.14,run_20261124T044933_996155Z_db1a115f
+mondelez int. us (0074819091009),14,7,7,6,2.0,run_20261124T044933_996155Z_db1a115f
+star wars,7,7,7,6,1.0,run_20261124T044933_996155Z_db1a115f
+caldo international inc.,12,7,3,7,1.71,run_20261124T044933_996155Z_db1a115f
+concord foods llc,13,7,3,7,1.86,run_20261124T044933_996155Z_db1a115f
+crown candy corporation,12,7,2,7,1.71,run_20261124T044933_996155Z_db1a115f
+productor alimenticios y dieteticos,16,7,6,5,2.29,run_20261124T044933_996155Z_db1a115f
+"phenix gourmet, llc",12,6,5,6,2.0,run_20261124T044933_996155Z_db1a115f
+worthington foods inc.,9,6,2,6,1.5,run_20261124T044933_996155Z_db1a115f
+"colony brands, inc.",8,6,2,5,1.33,run_20261124T044933_996155Z_db1a115f
+pepsico inc.,12,6,6,6,2.0,run_20261124T044933_996155Z_db1a115f
+peppa pig,6,6,6,6,1.0,run_20261124T044933_996155Z_db1a115f
+sweet smiles,6,6,5,6,1.0,run_20261124T044933_996155Z_db1a115f
+purcell international inc.,16,6,4,6,2.67,run_20261124T044933_996155Z_db1a115f
+jfc international inc.,12,6,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+umeya inc.,12,6,3,6,2.0,run_20261124T044933_996155Z_db1a115f
+festival,6,6,6,6,1.0,run_20261124T044933_996155Z_db1a115f
+badia spices inc.,8,6,5,6,1.33,run_20261124T044933_996155Z_db1a115f
+"cake craft, llc",11,6,5,5,1.83,run_20261124T044933_996155Z_db1a115f
+bakery fresh goodness,6,6,6,6,1.0,run_20261124T044933_996155Z_db1a115f
+reynaldo's,7,6,7,4,1.17,run_20261124T044933_996155Z_db1a115f
+"rocky mountain chocolate factory, inc.",10,6,3,6,1.67,run_20261124T044933_996155Z_db1a115f
+schulze & burch biscuit co.,11,6,2,6,1.83,run_20261124T044933_996155Z_db1a115f
+sun-maid growers,18,6,1,6,3.0,run_20261124T044933_996155Z_db1a115f
+kccp distribution co llc,13,6,3,6,2.17,run_20261124T044933_996155Z_db1a115f
+johnvince foods ltd.,9,6,3,6,1.5,run_20261124T044933_996155Z_db1a115f
+boesl packing co.inc.,10,6,2,5,1.67,run_20261124T044933_996155Z_db1a115f
+blue chip group inc.,8,6,2,6,1.33,run_20261124T044933_996155Z_db1a115f
+ancel products inc,12,6,3,6,2.0,run_20261124T044933_996155Z_db1a115f
+"miesfelds triangle market, inc.",8,6,6,6,1.33,run_20261124T044933_996155Z_db1a115f
+seneca foods corporation,10,6,3,6,1.67,run_20261124T044933_996155Z_db1a115f
+shurfine,6,6,4,5,1.0,run_20261124T044933_996155Z_db1a115f
+ludo,10,6,3,6,1.67,run_20261124T044933_996155Z_db1a115f
+se grocers,6,6,6,6,1.0,run_20261124T044933_996155Z_db1a115f
+marlow candy & nut company,15,6,4,6,2.5,run_20261124T044933_996155Z_db1a115f
+mars retail group inc.,10,6,2,6,1.67,run_20261124T044933_996155Z_db1a115f
+chase and poe candy company,12,6,3,6,2.0,run_20261124T044933_996155Z_db1a115f
+chestnut hill,6,6,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+"golden beach, inc.",13,6,3,5,2.17,run_20261124T044933_996155Z_db1a115f
+"utz quality foods, llc",9,6,5,5,1.5,run_20261124T044933_996155Z_db1a115f
+mello meats inc.,14,6,4,6,2.33,run_20261124T044933_996155Z_db1a115f
+conagra foods-snack foods group,8,6,2,6,1.33,run_20261124T044933_996155Z_db1a115f
+gardners candies inc.,12,6,3,6,2.0,run_20261124T044933_996155Z_db1a115f
+turkey hill dairy inc.,10,6,3,6,1.67,run_20261124T044933_996155Z_db1a115f
+best choice,6,6,6,6,1.0,run_20261124T044933_996155Z_db1a115f
+hot stop foods,12,6,4,6,2.0,run_20261124T044933_996155Z_db1a115f
+"abdallah, inc.",11,6,3,6,1.83,run_20261124T044933_996155Z_db1a115f
+hormel foods corporation,12,6,2,5,2.0,run_20261124T044933_996155Z_db1a115f
+"abbyland foods, inc.",16,6,6,5,2.67,run_20261124T044933_996155Z_db1a115f
+western mixers produce and nuts inc.,14,6,4,6,2.33,run_20261124T044933_996155Z_db1a115f
+gamesa usa inc.,8,5,3,5,1.6,run_20261124T044933_996155Z_db1a115f
+conagra brands inc,5,5,5,4,1.0,run_20261124T044933_996155Z_db1a115f
+momentum brands,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+mondelez usa,10,5,5,4,2.0,run_20261124T044933_996155Z_db1a115f
+marie callender's retail foods,7,5,1,3,1.4,run_20261124T044933_996155Z_db1a115f
+dylan's candy bar colorful,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+edlin foods,9,5,5,5,1.8,run_20261124T044933_996155Z_db1a115f
+"quality chekd dairies, inc.",8,5,3,5,1.6,run_20261124T044933_996155Z_db1a115f
+"mercado latino, inc.",9,5,3,5,1.8,run_20261124T044933_996155Z_db1a115f
+"casper's ice cream, inc.",8,5,3,5,1.6,run_20261124T044933_996155Z_db1a115f
+celebration by sweetworks,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+toft dairy inc.,7,5,2,5,1.4,run_20261124T044933_996155Z_db1a115f
+the hvr company,9,5,2,5,1.8,run_20261124T044933_996155Z_db1a115f
+cloverdale foods company,10,5,2,5,2.0,run_20261124T044933_996155Z_db1a115f
+qtg,10,5,5,5,2.0,run_20261124T044933_996155Z_db1a115f
+stater bros.,5,5,3,5,1.0,run_20261124T044933_996155Z_db1a115f
+american licorice company,8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+"perry's ice cream company, inc.",8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+american importing co. inc.,7,5,3,3,1.4,run_20261124T044933_996155Z_db1a115f
+"ukrop's homestyle foods, llc",10,5,3,5,2.0,run_20261124T044933_996155Z_db1a115f
+two bite,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+"georgia peach products, inc.",8,5,3,5,1.6,run_20261124T044933_996155Z_db1a115f
+"amazonas imports, inc.",9,5,2,5,1.8,run_20261124T044933_996155Z_db1a115f
+world consolidated industries,9,5,2,5,1.8,run_20261124T044933_996155Z_db1a115f
+long grove confectionery co.,12,5,3,5,2.4,run_20261124T044933_996155Z_db1a115f
+"schuster products, llc",6,5,3,5,1.2,run_20261124T044933_996155Z_db1a115f
+candy-ville,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+mdx,6,5,5,5,1.2,run_20261124T044933_996155Z_db1a115f
+"taste of nature, inc.",13,5,3,5,2.6,run_20261124T044933_996155Z_db1a115f
+nosher's choice,10,5,2,5,2.0,run_20261124T044933_996155Z_db1a115f
+nickelodeon,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+"chocolatera de nayarit, s.a. de c.v.",10,5,5,5,2.0,run_20261124T044933_996155Z_db1a115f
+field packing company,15,5,2,5,3.0,run_20261124T044933_996155Z_db1a115f
+"fashion studio, llc",9,5,4,5,1.8,run_20261124T044933_996155Z_db1a115f
+kohler original recipe chocolates,10,5,2,5,2.0,run_20261124T044933_996155Z_db1a115f
+"kickass snacks, inc.",13,5,3,5,2.6,run_20261124T044933_996155Z_db1a115f
+"d. e. wolfgang candy co., inc.",8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+thrive brands llc,6,5,5,5,1.2,run_20261124T044933_996155Z_db1a115f
+"bruno's supermarkets, inc.",8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+market essentials,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+little dutch boy bakeries,9,5,3,5,1.8,run_20261124T044933_996155Z_db1a115f
+morley candy makers inc.,8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+"optimum nutrition, inc.",10,5,4,5,2.0,run_20261124T044933_996155Z_db1a115f
+sun-maid growers of california,7,5,3,5,1.4,run_20261124T044933_996155Z_db1a115f
+best brands consumer products inc.,10,5,3,5,2.0,run_20261124T044933_996155Z_db1a115f
+bakehouse bread company,10,5,3,5,2.0,run_20261124T044933_996155Z_db1a115f
+in the mix,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+"forbes candies, inc.",10,5,4,5,2.0,run_20261124T044933_996155Z_db1a115f
+food city,9,5,2,5,1.8,run_20261124T044933_996155Z_db1a115f
+"president baking company, inc.",6,5,2,4,1.2,run_20261124T044933_996155Z_db1a115f
+conagra brands,15,5,5,4,3.0,run_20261124T044933_996155Z_db1a115f
+pamana food industries inc.,10,5,2,5,2.0,run_20261124T044933_996155Z_db1a115f
+pearson candy company,8,5,2,5,1.6,run_20261124T044933_996155Z_db1a115f
+palama holdings llc,9,5,1,5,1.8,run_20261124T044933_996155Z_db1a115f
+"csm bakery products na, inc.",10,5,3,3,2.0,run_20261124T044933_996155Z_db1a115f
+cumberland farms dairy inc,9,5,3,5,1.8,run_20261124T044933_996155Z_db1a115f
+colorbok llc,6,5,5,5,1.2,run_20261124T044933_996155Z_db1a115f
+color it candy,5,5,5,4,1.0,run_20261124T044933_996155Z_db1a115f
+clover valley,8,5,5,5,1.6,run_20261124T044933_996155Z_db1a115f
+"claeys candy, inc.",14,5,2,4,2.8,run_20261124T044933_996155Z_db1a115f
+productos alimenticios diana,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+paw patrol,5,5,5,5,1.0,run_20261124T044933_996155Z_db1a115f
+joy cone company,10,5,3,4,2.0,run_20261124T044933_996155Z_db1a115f
+d'gari,5,5,5,3,1.0,run_20261124T044933_996155Z_db1a115f
+"vilore foods co., inc.",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"wismettac asian foods, inc.",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"abimar foods, inc.",7,4,3,3,1.75,run_20261124T044933_996155Z_db1a115f
+gourmet gift concepts,5,4,3,4,1.25,run_20261124T044933_996155Z_db1a115f
+"i. epstein & sons, inc.",8,4,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+acme fresh market,4,4,2,4,1.0,run_20261124T044933_996155Z_db1a115f
+hyde and eek!,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+willmar cookie company inc.,6,4,4,4,1.5,run_20261124T044933_996155Z_db1a115f
+happy apple co.,9,4,2,4,2.25,run_20261124T044933_996155Z_db1a115f
+"giorgio foods, inc.",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"grupo lyn, s.a. de c.v.",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"marquez brothers international, inc.",5,4,2,4,1.25,run_20261124T044933_996155Z_db1a115f
+nafta foods & packaging inc.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+borinquen biscuit corporation,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+"stone creek foods of south carolina, llc",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+splendid chocolates ltd.,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+"fantasy chocolates, inc.",9,4,2,4,2.25,run_20261124T044933_996155Z_db1a115f
+king henry's,11,4,2,4,2.75,run_20261124T044933_996155Z_db1a115f
+reese orchards,10,4,2,4,2.5,run_20261124T044933_996155Z_db1a115f
+d. f. stauffer biscuit co. inc,6,4,3,4,1.5,run_20261124T044933_996155Z_db1a115f
+sausage works,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+chocomize inc.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+tippin's restaurants inc.,6,4,3,4,1.5,run_20261124T044933_996155Z_db1a115f
+cakeballz,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+"leaf brands, llc",11,4,2,4,2.75,run_20261124T044933_996155Z_db1a115f
+empire paint manufacturing company,10,4,4,4,2.5,run_20261124T044933_996155Z_db1a115f
+legendary foods llc,7,4,3,4,1.75,run_20261124T044933_996155Z_db1a115f
+concept gourmet du village inc.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+raley's,4,4,3,4,1.0,run_20261124T044933_996155Z_db1a115f
+moyers apple products inc,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+musclepharm corp,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+cafe valley inc,7,4,2,3,1.75,run_20261124T044933_996155Z_db1a115f
+"dynamic design enterprises, inc.",10,4,4,4,2.5,run_20261124T044933_996155Z_db1a115f
+treehouse foods,4,4,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+down home bakery,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"mars, inc.",7,4,5,1,1.75,run_20261124T044933_996155Z_db1a115f
+"celebration elegant desserts, llc",11,4,2,4,2.75,run_20261124T044933_996155Z_db1a115f
+"ellis pecan co., inc.",6,4,3,4,1.5,run_20261124T044933_996155Z_db1a115f
+tootsie roll industries inc.,12,4,3,4,3.0,run_20261124T044933_996155Z_db1a115f
+salerno foods llc,5,4,1,4,1.25,run_20261124T044933_996155Z_db1a115f
+mapco express,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+"ole mexican foods, inc.",10,4,2,4,2.5,run_20261124T044933_996155Z_db1a115f
+"old fashioned foods, inc.",10,4,2,3,2.5,run_20261124T044933_996155Z_db1a115f
+"dollar only wholesale, llc",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+dole packaged foods company,6,4,6,4,1.5,run_20261124T044933_996155Z_db1a115f
+marra bros.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+clasen quality coatings inc,10,4,2,4,2.5,run_20261124T044933_996155Z_db1a115f
+jelly belly,4,4,4,3,1.0,run_20261124T044933_996155Z_db1a115f
+"kent precision foods group, inc.",6,4,3,4,1.5,run_20261124T044933_996155Z_db1a115f
+umpqua dairy products co.,7,4,2,4,1.75,run_20261124T044933_996155Z_db1a115f
+the quaker oats co./gatorade-van camp,9,4,2,4,2.25,run_20261124T044933_996155Z_db1a115f
+the muffin mam inc.,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+overseas foodlink inc.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+sugarfina,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+boulangerie vachon inc.,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+"three rivers confections, llc",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+fortune commercial corp,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+sweet p's,4,4,4,2,1.0,run_20261124T044933_996155Z_db1a115f
+sweet n fun ltd,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+"sunny days entertainment, llc",8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+superior nut/candy distribut'g,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+angry birds,6,4,6,4,1.5,run_20261124T044933_996155Z_db1a115f
+colonna brothers,6,4,3,4,1.5,run_20261124T044933_996155Z_db1a115f
+"petri baking products, inc.",9,4,2,4,2.25,run_20261124T044933_996155Z_db1a115f
+pete's pancakes,7,4,3,4,1.75,run_20261124T044933_996155Z_db1a115f
+crave better foods llc,6,4,3,3,1.5,run_20261124T044933_996155Z_db1a115f
+sunflower food company inc.,8,4,2,4,2.0,run_20261124T044933_996155Z_db1a115f
+way to celebrate!,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+west coast grocery company,6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+"general nutrition centers, inc",4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+"herman seekamp, inc.",10,4,2,4,2.5,run_20261124T044933_996155Z_db1a115f
+hello kitty,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+"bektrom foods, inc",6,4,2,4,1.5,run_20261124T044933_996155Z_db1a115f
+berkot's super foods,4,4,4,4,1.0,run_20261124T044933_996155Z_db1a115f
+bel brands usa inc.,5,4,1,4,1.25,run_20261124T044933_996155Z_db1a115f
+goldon windows & mirrors inc.,8,4,4,4,2.0,run_20261124T044933_996155Z_db1a115f
+"werner gourmet meat snacks, inc.",7,4,2,4,1.75,run_20261124T044933_996155Z_db1a115f
+abbch ousterhout ltd.,5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+abbyland,3,3,3,2,1.0,run_20261124T044933_996155Z_db1a115f
+"xochitl, inc.",8,3,3,3,2.67,run_20261124T044933_996155Z_db1a115f
+graeter's inc.,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+wisconsin cheese group inc.,9,3,2,3,3.0,run_20261124T044933_996155Z_db1a115f
+northern confections inc,6,3,3,3,2.0,run_20261124T044933_996155Z_db1a115f
+"diamond bakery co., ltd.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+dia de muertos collection,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+del monte foods inc.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+twirl pops,3,3,3,2,1.0,run_20261124T044933_996155Z_db1a115f
+unilever bestfoods north america,6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+unicorn pops,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+gmp global marketing inc.,4,3,3,3,1.33,run_20261124T044933_996155Z_db1a115f
+give and go prepared foods corp.,5,3,3,3,1.67,run_20261124T044933_996155Z_db1a115f
+"heritage candy company, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"danone us, llc",3,3,1,3,1.0,run_20261124T044933_996155Z_db1a115f
+"creative snacks co., llc",7,3,1,3,2.33,run_20261124T044933_996155Z_db1a115f
+p.g.i. of saugatuck inc.,5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+monkey joe's big nut co.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+nancy adams,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+disney princess,4,3,4,3,1.33,run_20261124T044933_996155Z_db1a115f
+decocookies,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+astor chocolate corp.,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+"two's company, inc.",5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+harvest hill beverage company,16,3,2,3,5.33,run_20261124T044933_996155Z_db1a115f
+harris-teeter inc.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+"hola nola foods, llc",6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+creative confectionary corporation,6,3,3,3,2.0,run_20261124T044933_996155Z_db1a115f
+mojave foods corporation,6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+"mint savor, llc",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"country fresh food & confections, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+prairie city bakery company,5,3,3,3,1.67,run_20261124T044933_996155Z_db1a115f
+"poly-pak industries, inc.",6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+dreyer's grand ice cream inc.,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+piggly wiggly company,6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+"phil's cake box bakeries, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+profood international corp.,5,3,1,2,1.67,run_20261124T044933_996155Z_db1a115f
+"productos medellin, s.a. de cv",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+three saints baking co,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+the sweet people,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+troyer dist. co.,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+gelateria patisceria vigneri,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+fun for every one,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+marinela,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+cookie gallery,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+continental cookies inc.,4,3,3,3,1.33,run_20261124T044933_996155Z_db1a115f
+"conagra brands, inc",10,3,3,3,3.33,run_20261124T044933_996155Z_db1a115f
+quisling media,6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+cleo & leo recipes,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+"raybern foods, inc.",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+el rosario,8,3,2,3,2.67,run_20261124T044933_996155Z_db1a115f
+marvel,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+ramar international corp.,7,3,3,3,2.33,run_20261124T044933_996155Z_db1a115f
+redstone foods inc.,5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+circle k stores inc. division of alimentation couche-tard,4,3,3,3,1.33,run_20261124T044933_996155Z_db1a115f
+roberts products company ltd.,6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+lynco distribution,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+"lou's fish house, inc.",6,3,3,3,2.0,run_20261124T044933_996155Z_db1a115f
+ringpop,4,3,4,3,1.33,run_20261124T044933_996155Z_db1a115f
+baketree,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+"baker maid products, inc.",3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+aron streit inc.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+topmax corporation,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+houston tobacco,5,3,3,3,1.67,run_20261124T044933_996155Z_db1a115f
+fairfield gourmet food corp.,4,3,3,3,1.33,run_20261124T044933_996155Z_db1a115f
+fabrica de galletas la moderna,7,3,2,3,2.33,run_20261124T044933_996155Z_db1a115f
+"edward marc brands, inc.",4,3,3,3,1.33,run_20261124T044933_996155Z_db1a115f
+"make'n mold, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+maisie jane's california sunshine products,6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+roselyn recipes llc,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"the federated group, inc.",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+"galaxy worldwide, inc.",3,3,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+itos enterprises,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"baycliff company, inc.",6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+"sales usa, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"celebrate baking company, llc",7,3,2,3,2.33,run_20261124T044933_996155Z_db1a115f
+cedar crest specialties inc.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+les desserts,5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+lerro candy co.,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+"satin fine foods, inc",6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+shrewd food llc,7,3,2,3,2.33,run_20261124T044933_996155Z_db1a115f
+l. craven and sons,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"krema products, inc.",6,3,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+shasta beverages,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"snackerz, inc.",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+famous brands international,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+big drum,4,3,1,2,1.33,run_20261124T044933_996155Z_db1a115f
+"bernatello's pizza, inc.",6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+sweetworks,3,3,3,2,1.0,run_20261124T044933_996155Z_db1a115f
+special k,3,3,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+flash tek inc.,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+krause gentle corporation,6,3,1,3,2.0,run_20261124T044933_996155Z_db1a115f
+"fernando's bakery, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+byerly foods international,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+sundia corporation,5,3,5,3,1.67,run_20261124T044933_996155Z_db1a115f
+"borough park bakery, llc",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"borden, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+kellogg company,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+"boardwalk frozen treats, llc",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+blue diamond sports accessories,5,3,3,3,1.67,run_20261124T044933_996155Z_db1a115f
+"bill knapp's, llc",11,3,2,3,3.67,run_20261124T044933_996155Z_db1a115f
+t. marzetti company,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+giorgio cookie company llc,6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+gummy bands,3,3,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+dakota dairy specialties,4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+"dairy farmers of america, inc.",5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+"nutresa, s.a. de c.v.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+nutresa,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+ambrosetti's sister,7,3,2,3,2.33,run_20261124T044933_996155Z_db1a115f
+aida sweets,5,3,1,3,1.67,run_20261124T044933_996155Z_db1a115f
+hakumo llc,5,3,2,3,1.67,run_20261124T044933_996155Z_db1a115f
+h e butt grocery company,3,3,2,3,1.0,run_20261124T044933_996155Z_db1a115f
+gwen studios,6,3,2,3,2.0,run_20261124T044933_996155Z_db1a115f
+weis quality,3,3,3,3,1.0,run_20261124T044933_996155Z_db1a115f
+"weeks honey farm, inc.",4,3,1,3,1.33,run_20261124T044933_996155Z_db1a115f
+xiphias,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+zb importing inc.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+worthington,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"weaver nut company, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+hall of fame candy/nuts inc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+all seasons firelogs,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+western nut company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+adalane inc.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+allen apiaries,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+amano fishcake factory,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+nut house inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"nutco, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"dfa dairy brands, llc",4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+devon's mackinac island popcorn co.,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+delicious bakery,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+next phase enterprises,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+new age medicine herbs & vitamins,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+darrenkam's,2,2,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+vollwerth & company,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+vitality food service inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+up&up,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"unified grocers, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"w. & h. voortman, inc.",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+american food products inc,5,2,2,2,2.5,run_20261124T044933_996155Z_db1a115f
+"gluten-free heaven, llc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"global impact investment partners, llc",4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+hershey creamery company,2,2,1,2,1.0,run_20261124T044933_996155Z_db1a115f
+hermosa baking co,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"busken international, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+sunrise natural foods,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+bristol farms,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+brazilian oro,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+sweethearts,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+sweet cosmos,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+sweeet llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+kara chocolates,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+kaase baking company,8,2,1,2,4.0,run_20261124T044933_996155Z_db1a115f
+just in time gourmet,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+jose martinez mfg.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+kim-seng co.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+khong guan corporation,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+four brothers,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+flying cow productions,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+flave!,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+the crispery of virginia llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+fudgeamentals llc,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+fsg,3,2,3,2,1.5,run_20261124T044933_996155Z_db1a115f
+tc heartland llc,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+taylors candy inc.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+"tastee apple, inc.",2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+bryant's meats inc.,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+spring celebration,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+spindler's,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+speedway llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+sophisticated chocolates mfg.,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+solaray corporation,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+sodastream,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+khong guan biscuit factory,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+firewood fred inc.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"knott's wholesale foods, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+fantasy cookie co.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"faith walk designs, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+landies candies co. inc.,7,2,1,2,3.5,run_20261124T044933_996155Z_db1a115f
+"lakeview farms, llc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+la fiesta food products inc.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+"carolina packers, inc.",2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+caribe international group,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+canel's,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"candyrific, llc",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+switzer candy company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"big l brands, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+big john's,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+"best stop cajun food, llc",5,2,2,2,2.5,run_20261124T044933_996155Z_db1a115f
+bar-s foods co.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+the decorated cookie co.,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"the dannon company, inc.",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"savory foods, inc.",7,2,1,2,3.5,run_20261124T044933_996155Z_db1a115f
+sara lee foods,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+sapphire bakery company llc,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"simply scrumptious confections, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+silver creek specialty meats inc.,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+l & j general international,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"kslb holdings, llc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"enjou chocolat of morristown, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+shatto milk company,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+candy stampers,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+california fruit exchange,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+smithfield farmland corp.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+slim fast,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+societe des produits nestle s.a.,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+snak-king corp.,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+fareway,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+james candy company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+j&a foods inc.,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"beaverton foods, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+bazzini llc,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"the spice hunter, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+charl's ice cream spec.co.,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"central grocers co-op, inc.",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"castella imports, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"s. m. flickinger co., inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+setton international foods inc,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+servatii pastry shop,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+servatii,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+lol surprise!,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+lisa produce,3,2,1,1,1.5,run_20261124T044933_996155Z_db1a115f
+sea island sweets,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+sdi foods llc,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+chocolate chocolate chocolate,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"f&m bakery, inc",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+enstrom candies inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"el charro, inc.",3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"chattem, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+charms company,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+charm city cakes,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+charlotte's,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"charlie's specialties, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+the isaly klondike company,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"the frozen bean, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+the fred w. albrecht grocery co.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+"iga, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+iberia foods corporation,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+garden service & research a.g.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+galas de mexico-calif div,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+rocky mountain chocolate factory,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+"luther medical products, inc.",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+manchitas,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+royal wine corporation,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+the mctavish co.,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+bar s,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+balducci enterprises inc.,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+the little slugger llc,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+arriba!,2,2,1,2,1.0,run_20261124T044933_996155Z_db1a115f
+tommy john,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+how sweet it is inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"fred meyer, inc. (non food div)",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"international marketing systems, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+international foodsource,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+"integ, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+roundys,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"red smith foods, inc.",5,2,2,1,2.5,run_20261124T044933_996155Z_db1a115f
+emoji,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+elie baking corp,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"ralcorp frozen bakery products, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+rachael's gourmet,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+rachael's food corporation,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"rabbit creek products, inc.",5,2,2,2,2.5,run_20261124T044933_996155Z_db1a115f
+"reser's fine foods, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+reisman bros bakery,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"reichel foods, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+red wing dove inc.,6,2,2,2,3.0,run_20261124T044933_996155Z_db1a115f
+city nut and candy inc.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+cibo vita inc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+chris candy co inc,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+choice canning co. inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+rosalind candy castle,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+g & l decadence lc,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+fun sweets llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+traditional baking inc,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+"toys r us, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+primrose candy co,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+eastland food corporation,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+eagle family foods group llc,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+marietta,4,2,4,2,2.0,run_20261124T044933_996155Z_db1a115f
+marich confectionery company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+primrose bedspread corporation,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"presidio brands, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"conagra brands, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+r. l. zeigler company inc.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+r g gunnoe farms inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+queen city candy,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"quality products, llc",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+mave enterprises inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+marvel avengers,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"midwood brands, llc",2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+midwood brands,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"mezonos maven bakery, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"pierre's euro bread, inc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+phoenix food llc,6,2,2,2,3.0,run_20261124T044933_996155Z_db1a115f
+peteet's famous cheesecakes,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+productos san cristobal s.a.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+the warrell corporation,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+tropical nut & fruit co.,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"triple t specialty meats, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+gifford's dairy inc.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+giant eagle,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+general handle company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"gad bakeries, llc",3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+anderson erickson dairy co.,5,2,2,1,2.5,run_20261124T044933_996155Z_db1a115f
+"amusemints, llc",2,2,1,2,1.0,run_20261124T044933_996155Z_db1a115f
+"ami wholesale distributors, inc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+american roland food corp.,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+mexi-land inc.,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+member's mark,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"mmr, inc.",3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"mister snacks, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+milton g. waldbaum company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+create -a- treat,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"country maid, inc.",3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+corner store,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"powers, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"port royal sales, ltd.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+pjmasks,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+dreamworks,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+dlgllc inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+disney frozen,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+diluigi inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+deco cookies,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"msrf, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+mrs. fields famous brands llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+current's tackle,6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+culinary arts specialties inc.,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+"pepper creek farms, inc.",3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+aspire bakeries,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+tyson foods inc.,7,2,2,2,3.5,run_20261124T044933_996155Z_db1a115f
+"andrea's gluten free, llc",2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+hawaii's cookie kitchen,8,2,1,2,4.0,run_20261124T044933_996155Z_db1a115f
+harry and david,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+harmons,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"hoffman commercial group, inc.",4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+palermos wholesale,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+pada sushi,3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+monnit corporation,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+mondelez international,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+my habitat inc.,5,2,2,2,2.5,run_20261124T044933_996155Z_db1a115f
+my dads gluten free products,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+ozark candies and nuts,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+our speciality,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+orbit cookies,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+optimum nutrition,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+on,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+pati petite cookies,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+"patek's shiner smokehouse, llc",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+pastas y galletas de tijuana s.a de c.v.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+parent's choice,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"panarama, inc.",3,2,1,2,1.5,run_20261124T044933_996155Z_db1a115f
+daisy's bakery inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+golden packaging company,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"wonder griddle, llc",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"world confections, inc.",6,2,1,2,3.0,run_20261124T044933_996155Z_db1a115f
+"wild west products, ltd",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+wilcoxson's ice cream co. inc.,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+white knight resources,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+yamasa enterprises inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+2 k products inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"wise company, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"ntc marketing, inc.",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+noisebusters inc.,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+old fort industries,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+old dutch foods inc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+oh sugar!,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"oberweis dairy, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+jewel confections llc,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+"jerry kelly deli, inc.",5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+fiesta mart inc.,8,2,2,2,4.0,run_20261124T044933_996155Z_db1a115f
+"ferrero u.s.a., incorporated",4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+"bolner's fiesta products, inc.",6,2,2,1,3.0,run_20261124T044933_996155Z_db1a115f
+blue grass quality meats,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+bitterman family confections llc,4,2,1,2,2.0,run_20261124T044933_996155Z_db1a115f
+t. o. williams incorporated,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+symbolic design systems,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+123 cha-cha -cha corp,5,2,1,2,2.5,run_20261124T044933_996155Z_db1a115f
+wisconsin cheese & sausage company,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"grupo dilcomer, s.a. de c.v.",4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+great value,2,2,2,1,1.0,run_20261124T044933_996155Z_db1a115f
+nestle,2,2,2,2,1.0,run_20261124T044933_996155Z_db1a115f
+neowellness,4,2,2,2,2.0,run_20261124T044933_996155Z_db1a115f
+national distribution network llc,3,2,2,2,1.5,run_20261124T044933_996155Z_db1a115f
+"wsafg, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"a & a global industries, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+a pinch or a pound bulk foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"a.m.s. manufacturing, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+absolute amenities,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+wonder shop,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"williams sausage company, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+williams management,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+wichos foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+whoopie,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+yo crunch,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+yehuda matzos,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+wiltone,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"willpower in a bottle, l.l.c.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+walmart,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+water creation inc.,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+weis,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+halloween,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+hammonds candies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+han he group inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+african self awareness productions inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"aft galley holdings, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+ah so,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ah-so,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+aj's fine foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+alani nutrition llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+all american nut & candy corp.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+wensleydale creamery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+western gourmet inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"westguard industries, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dan dee pretzel/potato chip co,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+dancing leaf music,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+daran recording company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"dat'l do-it, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+day of the dead,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+deans country fresh,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+oak leaf confections,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"new ngc, inc.",4,1,1,1,4.0,run_20261124T044933_996155Z_db1a115f
+nikola's biscotti & european specialties inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"nli, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+no brand,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+noh foods of hawaii,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"del monte fresh produce n.a., inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"detroit city dairy, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"dianne's fine desserts, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+obleas,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ono fish cake co. inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+original gourmet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+original sixlets,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dier bergs bake house,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+munson's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+munsons chocolates,4,1,1,1,4.0,run_20261124T044933_996155Z_db1a115f
+n.a.c. foods inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+monster,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+monster bash,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+monte-carlo baking,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+morning star farms,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+morningstar farms,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mother's cookies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+palmer,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cremo,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+crumb dilly icious,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cupcake cuties,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"curry games, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+cyclone enterprises,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cyril's bakery company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+palmer making candy fun.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mr. beverages old time cocktail mixes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+multicom publishing incorporated,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"dearborn sausage company, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"dipco products co., inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+disnep,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+disney juior,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+disney prices,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dollar general corporation,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+payaso,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+peoria medical society,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+old world provisions inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mily's crackers,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+molly & you,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mega sours,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+melody cookies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"melody cookies, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+melona,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+meno enterprises inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mercantile&fancy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+metro candy sales,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+create a treat ltd,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+create a treat ltd.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+create a treat...,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+perfectly sweet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+pet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+culinaire foods ltd,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"culinevo kitchen, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+mibb usa inc.,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+midwood distributors inc.,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+milkita,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"milling sausage, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+matthew thomas designs,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+maud borup inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"mb wolverine company, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+dough co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"doughboy commissary, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"polk's meat products, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"post foods, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cookiegallery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cool whip mix-ins,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cooperative marketing,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+country style homemade noodles,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"craftmark bakery, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dutch maid bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dutch valley food distributors,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mc craw's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mccraw candies inc.,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+"mctavish shortbread, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+market distribution inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+e & m corporation,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+e-z build,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+easter basket,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+project 7 inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+classic world cuisine,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+clearvalue,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+peter rabbit,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+philippine brand,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+pillsbury,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+piruleta,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+chocolate works,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cloverdale foods co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+coastal bay confections,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+coborn's four brothers,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+coborn's signature,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"cocktail pep, smoked sausage sticks",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+coco bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cold stone,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+purity,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+purveyors of fine foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+r.i.p.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"compania de galletas pozuelo dcr, s.a.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"cookiebaker, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+primary colors,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+dry branch,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+duff,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+eberhard creamery inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+eddyleon chocolate co inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+edge innovations,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+edible decor,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+market square,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+marshmallow kabob,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+el super leon,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+el viajero,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+elegant desserts,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ellien's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+empire comissary,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+empire commissary,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"rdg imports, ltd.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+red button vintage creamery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+red dot trading co.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+chocolate house,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+m&m bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+madpop snackatiers llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+rizuto's wholesale inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"rje trade international, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ro,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+roche bros supermarkets inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+chocomaker,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+chopsies inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+christopher's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+circle brand,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+red velvet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+rice krispies treats,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+rafael padilla & cia s. en c.,5,1,2,1,5.0,run_20261124T044933_996155Z_db1a115f
+rain-blo,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+rainbow cotton candy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"rainbow cotton candy, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+ricolino,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ringling bros. and barnum & bailey,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"rise baking company, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+river trail,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+rivertrail,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+rivertrail foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+malama mushrooms,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"mar vivo usa, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"mar-lees seafood, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+marathon enterprises inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+marble,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+mardi gras,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"louisville distilling company, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"love's country stores, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+lykes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+m & j enterprises,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+chevron u.s.a.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+chick-o-stick,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"magnolia operating, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+el azteca,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+el leoncito g.s. com,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+entenmann's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+entertainment production house inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+ermenegildo zegna corporation,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+eve sales company,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+f.b. washburn candy corp,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+choco maker,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+chocolate chocolate chocolate company,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+royal food import corporation,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+royal ice cream company,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+rich ice cream co,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+rich's ice cream co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lighthouse toys limited,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+limited time,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+season's pick,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+select,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+serrgny,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sevigny's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+saffon farms,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"saker shoprites, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+celebrate spring,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+celebration,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+celebration by frey,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+celebration by sweet works,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+celebration frey,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+centerpiece desserts,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sam's club west,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+chef's seasoning,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+simply delicious,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+simply indulgent gourmet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"sku foods, llc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+sandy bumz,4,1,1,1,4.0,run_20261124T044933_996155Z_db1a115f
+scoopsie daisy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+scotty''s country smokehouse,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lmh brokerage llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+local,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lofthouse bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lollipop bouquet,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+loma lunda,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+larry's sausage company,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+lasco foods limited,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"leaf, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lem products holding llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+lenell cookies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+shinet corporation,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+shopkins,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+shoresystems,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+shortbread cookies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+limited time originals,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+lingayen,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+link & lock,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"empire commissary, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+enjoy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+enslin & son packing co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kwikset corporation,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+l.o.l. surprise!,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+la bree's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+la cibaena,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+la cibaena bakery,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+silver lake cookie co. inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snyder's-lance inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+socit des produits nestl s.a.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"sky chefs, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+slush puppie,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+smart & simple,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+smart sense,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+smokehouse,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+smoky mountain candy makers,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snack delite,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+candies r' us,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+candy break,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+candy fiesta,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+candy store,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+shakespeare flowers,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"shima foods consolidated, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+shimmer and shine,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+captain carl's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+carlo's bakery lackawanna llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+carson's deli & bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snak club,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+la molienda,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+la zagala de los altos sa de,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+lakeview farms inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+langendorf baking co.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+fairway,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fairway foods inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+fairway operating corp.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+farmland foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+federico's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snak glub,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snak king,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+snakclub,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+squatch,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+star war,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+stensland creamery,4,1,1,1,4.0,run_20261124T044933_996155Z_db1a115f
+steve's cheese,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+stichler products inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bon appetit,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+boo bands,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sonrics,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+southwestern connection & imports,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+spice drops,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+spindler's bake shop,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+splendid,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+splendid chocolates,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+spongebob,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+spooky candy factory,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+candymania,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+buff goldman,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bunch a bunnies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+cabot's candy of cape cod,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+california del sur,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+spring street bake shop,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sprinkles,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+knights,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+knipschildt chocolatier,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kopper's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kosher,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+first street bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fischer packing company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fischer's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fishcake,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"flav, inc",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+kenzie's kakes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+just goodies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bon appetie,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"suregreen mulch, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"sweet shot cookies, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sweet works,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+boston america corp.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+bostonia beverage,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+brach's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"branch cheese company, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+brand castle,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sugar skill,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sunkist,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sunset farm,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+sunset farm brand,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"sunset farm foods, inc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+buena vista food products,5,1,1,1,5.0,run_20261124T044933_996155Z_db1a115f
+keefe coffee and supply co.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+kenover marketing corp.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+fieldbrook foods corp.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+flavorful favorites,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"flora's distributors, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+food basics,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+foster dairy farms,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+kidsmania,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kimberley's bakeshopee,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kimmie candy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kitchens of sara lee,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+klass,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"jtm foods, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+jumbo donettes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+junior's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+just born,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+frutifresca,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fudge love,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+iq accessories inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"tgp, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"thatcher's gourmet specialties, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the crispy crispycakes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"befores, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bellisio foods inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+big russ premium beer cheese,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+t.o. williams,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tadych's econo foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"target brands, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+blake's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"blue bell creameries, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+bombolo biscotti,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+kataria foods int'l inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+teaty treats,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tedeschi select,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tennessee bun company,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"texas star nut & food company, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tgp,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fourstar group,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fourstar group inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jewel-osco,2,1,2,1,2.0,run_20261124T044933_996155Z_db1a115f
+jj's bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jlm manufacturing,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jolly time,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jonto,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"fresh foods, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+fresh gourmet company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+frito lay,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+frosted sugar,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+beaver,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"beaver street fisheries, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+bedware unlimited inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bee creative,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+it's a party,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jdl inc. vegas image,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jeld-wen inc/yakima door,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+jell-o play,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+galerie candy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+galilean's kitchen,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+garfield,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+industrializadora de productos comestibles s.a.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+the doozie bar,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the grinch,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the holy smokes,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tastykake,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hubert farms,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ibake cookies,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tops,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+artdessert,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+arthur paul's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"atlantic natural foods, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bakefree,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+baker's batch,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bakersfield,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bakery blin,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bakery bling,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+bakery fresh,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the nature's bounty co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the simpsons,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+barash cosmetics llc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+be mine,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+truly good foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+twinstar bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the truly scrumptious baking company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the wild baker,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+the worthy crumb pastry co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"this & that distribution, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+tippin's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tob projects llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+international meat snack sourcing,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"fox point sportswear, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+fresh bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"hometown foods usa, inc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+honey world inc.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hot roads,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hp,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hp inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+u r magical,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"artskills, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"associated food stores, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+atlanta cheesecake company llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+atlantic capes fisheries,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+atlantic capes fisheries inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+future sales global sourcing inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+g.d. roberts & company inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+gabriela,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+georgia special,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+getgo,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+giant pumpkin halloween,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hilco corporation,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"hill & valley, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+treff,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+trolls,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+american roland food llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+aml bakery ltd,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+amo's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+anavita inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hilo's amano finest,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hockory harvest foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"hofmann sausage company, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+holiday home,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+homekist,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+happy easter!,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+happy wacky apples,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+harvest pearls,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+hawkhaven greenhouse int'l.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"apex outfitters, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+tylina sweetshop,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+tyline foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"gussie's greetings, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+american candy company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+american classic snack co.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+vonder heide printing & litho,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+w.w. will & sons dist.,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+wacky emoji,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ugly,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+unicorn,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+united,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+united dairy farmers inc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+united dairy q,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+valentine's day,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+valentini italian specialties co.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"ventura foods, l.l.c.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+vollwerth's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+all star dairy association inc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+whirly pop,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+advanced plant processing,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"alliance foods, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"allied superstar, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+always save,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+ama,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+amana bakery,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+america's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"heine brothers' coffee, inc.",3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+henrys hickory house,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+here's howe,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+heritage,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"glanbia performance nutrition, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+glucerna,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+glucerna shake,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+golden foods,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+give and go,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"zoodyssey, inc.",2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+xochitl,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+15th ave food corp.,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"golden west trading, inc.",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+gomez cuetara hnos sa de cv,3,1,1,1,3.0,run_20261124T044933_996155Z_db1a115f
+goodfields,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+gracekennedy foods (usa) llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+4 him food group llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+"yum distribution, llc",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+yummy art,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+zachary,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+zoku llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+waffle waffle,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"wafflewaffle, llc.",5,1,1,1,5.0,run_20261124T044933_996155Z_db1a115f
+wal-mart,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+"oh, sugar!",1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+olaf's,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+norfolk manor,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+northern tier bakery llc,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nostalgia products group llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+num noms,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nutrament,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nutrisure,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nanna anna,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nassau candy,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+nature's world llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+necco,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+neostar usa llc,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+nepro with carb steady,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f
+gimbal brothers inc.,2,1,1,1,2.0,run_20261124T044933_996155Z_db1a115f
+giorgio cookie company,1,1,1,1,1.0,run_20261124T044933_996155Z_db1a115f

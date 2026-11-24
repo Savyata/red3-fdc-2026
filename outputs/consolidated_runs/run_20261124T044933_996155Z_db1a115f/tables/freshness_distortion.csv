@@ -1,0 +1,6 @@
+﻿window,percent_source_records,percent_latest_barcodes,difference,run_id
+within 12 months,0.92,2.64,1.72,run_20261124T044933_996155Z_db1a115f
+within 24 months,2.11,3.59,1.48,run_20261124T044933_996155Z_db1a115f
+within 48 months,18.43,45.07,26.64,run_20261124T044933_996155Z_db1a115f
+older than 48 months,81.57,54.93,-26.64,run_20261124T044933_996155Z_db1a115f
+no publication date,0.0,0.0,0.0,run_20261124T044933_996155Z_db1a115f
